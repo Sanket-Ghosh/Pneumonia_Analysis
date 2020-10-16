@@ -32,7 +32,7 @@ special thanks to Shuvradip Ghosh.
 
 This model undergoes different convolutional layers and maxpooling layers as a result I got a decent amount of accuracy while testing the data.
 
-<img src="images/data.png">
+<img src="images/Data.png">
  
 **Architecture:** VGG-16
 
