@@ -31,6 +31,8 @@ special thanks to Shuvradip Ghosh.
 # CONCLUSION:
 
 This model undergoes different convolutional layers and maxpooling layers as a result I got a decent amount of accuracy while testing the data.
+
+<img src="images/data.png">
  
 **Architecture:** VGG-16
 
