@@ -32,11 +32,17 @@ special thanks to Shuvradip Ghosh.
 
 This model undergoes different convolutional layers and maxpooling layers as a result I got a decent amount of accuracy while testing the data.
 
-<img src="images/Data.png">
+<img title="MODEL-1: VGG-16 Architecture" src="images/Data.png">
+<img title="MODEL-2: 3:1 Convolution Architecture" src="images/model2.png">
  
-**Architecture:** VGG-16
+**Architecture 1:** VGG-16
 
 **Training Accuracy: 96%
+Testing Accuracy:92%**
+
+**Architecture 2:** 3:1 Convoluation
+
+**Training Accuracy: 94%
 Testing Accuracy:92%**
 
 
